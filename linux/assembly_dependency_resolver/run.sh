@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# script
+# script - chmod 755
 
 
 dotnet new console -o AppWithPlugin
